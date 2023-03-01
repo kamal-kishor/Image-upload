@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function navbar() {
+export default function Navbar() {
   return (
     <div>
       <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
